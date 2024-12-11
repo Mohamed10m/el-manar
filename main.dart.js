@@ -59718,7 +59718,7 @@ $2(a,b){return new A.j8(this.a.c.b[b],null)},
 $S:38}
 A.MR.prototype={
 I(a){var s=null,r="Intermediate",q=t.p,p=A.a([new A.qu(s,s,"Flutter Apps","Using Dart And Flutter","Expert",s),new A.qu(B.A4,new A.I(4280000759),"iOS Apps","Using Swift And Xcode",r,s),new A.qu(B.A_,B.Ex,"Android Apps","Using Java And Android Studio",r,s)],q),o=A.io(8),n=A.aC($.eS()).RG.x
-q=A.a([A.dc("What I Do?",n==null?s:n.cg(B.ab),B.aE,s),A.dN(s,10,s),A.dc("I'm Available For Hire",s,B.aE,s),A.dN(s,50,s)],q)
+q=A.a([A.dc("o]lhjkh",n==null?s:n.cg(B.ab),B.aE,s),A.dN(s,10,s),A.dc("I'm Available For Hire",s,B.aE,s),A.dN(s,50,s)],q)
 if(a.P(t.w).f.a.a>=1100){n=t.vX
 q.push(A.mm(A.al(new A.aw(p,new A.a7D(),n),!0,n.i("bj.E")),B.a5,B.a1,B.b2))}else B.b.G(q,p)
 return new A.cr(new A.ay(0,o,0,o),A.fw(q,B.aH,B.a1),s)}}
@@ -59758,21 +59758,21 @@ s=A.aC($.eS()).RG.x
 return A.fw(A.a([A.dc("Who I Am?",s==null?r:s.cg(B.ab),r,r),A.dN(r,20,r),A.dc("- Ahmed Ashraf Abogameel.\n- Birthday Date 26-2-2000.\n- Live in Egypt, Cairo, New Maadi.\n- IT Department at FCIS Mansoura University",q,B.as,r),A.dN(r,20,r),A.dc("I am a mobile developer from Egypt, with a strong focus on Mobile Development. I love to get a new experiences and always learn from my surrounding.",r,r,r)],t.p),p,B.a1)}}
 A.tr.prototype={
 ak(){var s=null,r=t.C
-return new A.J7(A.aJ(["مقدمة تعريفية",new A.bi(s,r),"Who I Am?",new A.bi(s,r),"What I Do?",new A.bi(s,r),"Experience",new A.bi(s,r),"Technical Skills",new A.bi(s,r),"Projects",new A.bi(s,r)],t.N,t.uY),B.l)}}
+return new A.J7(A.aJ(["الرئيسية",new A.bi(s,r),"من نحن",new A.bi(s,r),"خدماتنا",new A.bi(s,r),"المشاريع",new A.bi(s,r),"Technical Skills",new A.bi(s,r),"Projects",new A.bi(s,r)],t.N,t.uY),B.l)}}
 A.J7.prototype={
 I(a){var s,r,q,p,o,n,m,l=null,k=t.w,j=A.arw(a.P(k).f.a.a>=1100?this.d:A.z(t.N,t.uY))
 k=a.P(k).f.a.a>=1100?l:new A.zG(this.d,l)
 s=this.d
-r=s.j(0,"مقدمة تعريفية")
-q=s.j(0,"Who I Am?")
-p=s.j(0,"What I Do?")
-o=s.j(0,"Experience")
+r=s.j(0,"الرئيسية")
+q=s.j(0,"من نحن")
+p=s.j(0,"خدماتنا")
+o=s.j(0,"المشاريع")
 n=A.aak()
 m=s.j(0,"Technical Skills")
 return new A.vn(j,new A.G2(new A.ay(30,30,30,30),A.fw(A.a([new A.Jn(r),new A.MT(q),new A.MR(p),new A.IL(n,o),new A.LG(A.aak(),m),new A.xS(s.j(0,"Projects"))],t.p),B.aH,B.a1),l),k,l)}}
 A.DD.prototype={
 I(a){var s=$.ajU()
-return new A.u9($.aa_(),new A.tr(null),A.at2(),"Jemi's Portfolio",s,!1,null)}}
+return new A.u9($.aa_(),new A.tr(null),A.at2(),"El-Manar Portfolio",s,!1,null)}}
 A.a8S.prototype={
 $1(a){var s=null
 return new A.cr(B.zE,A.abg(A.dc(a,A.hY(s,s,B.ax,s,s,s,s,s,s,s,s,s,s,s,B.aI,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.a8R(this.a,a),s),s)},
